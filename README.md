@@ -16,16 +16,19 @@ The Dice Roller App is a simple Flutter application that allows users to roll vi
    ```bash
    git clone https://github.com/marwanashraf56/DiceRollerApp.git
 2. Navigate to the project folder:
+   ```bash
    cd dice-roller-app
 3. Fetch dependiencies:
+   ```bash
    flutter pub get
 4. Run the app:
+   ```bash
    flutter run
 
-#### License
+## License
 This project is licensed under the MIT License.
 
-##### Contact
+## Contact
 For questions or feedback, contact me at marwan.ashrafshaaban123@gmail.com.
 
 
